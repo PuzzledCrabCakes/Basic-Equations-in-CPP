@@ -4,12 +4,12 @@ This is a simple C++ program that lets the user input an equation and get a resu
 
 Example input:
 
-'''
-5 / 10
-'''
+
+    5 / 10
+
 
 Example output:
 
-'''
-Quotient: 0.5
-'''
+
+    Quotient: 0.5
+
